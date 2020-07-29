@@ -30,34 +30,25 @@ Project Feature:
 
 Project Screensorts:
  
-
- 
-
- 
- 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
- 
-
- 
- 
+<img src="1.jpg">
+ <img src="2.jpg">
+<img src="3.jpg">
+ <img src="4.jpg">
+ <img src="5.jpg">
+ <img src="6.jpg">
+<img src="7.jpg">
+ <img src="8.jpg">
+<img src="9.jpg">
+ <img src="10.jpg">
+<img src="11.jpg">
+ <img src="12.jpg">
+<img src="13.jpg">
 
 
 Project Diagram:
 
 ER Diagram:
-
+ <img src="14.jpg">
 
  
 
@@ -66,9 +57,6 @@ Conclusion:
 In our railway management system we have sorted all the information about the trains, schedule ,and the user booking ticket and even status of train seat etc. This database is helpful for authority and applications which facilitate passengers to book the train tickets and check the details of the train and their status from their place itself it avoids inconveniences of going to railway situation for each  and every query they get .we had consider the most important requirement only ,many more features and details can be added to our project in order to obtain even more user friendly application .These application are already in progress and in future they can be upgraded and may become part of amazing technology .
 
 
-References:
-1.www.google.com
-2.wikipedia
    
 
 
