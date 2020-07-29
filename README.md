@@ -30,7 +30,7 @@ Project Feature:
 
 
 
-Project Screensorts:
+Project Screenshots:
  
 <img src="1.png">
  <img src="2.png">
